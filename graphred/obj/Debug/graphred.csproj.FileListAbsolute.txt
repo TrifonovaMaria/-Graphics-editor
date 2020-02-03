@@ -1,0 +1,50 @@
+D:\КГ\graphred\graphred\bin\Debug\graphred.exe.config
+D:\_Учеба\graphred\graphred\bin\Debug\graphred.exe.config
+D:\_Учеба\Графика\graphred\graphred\bin\Debug\graphred.exe.config
+D:\_Учеба\Графика\graphred\graphred\bin\Debug\graphred.exe
+D:\_Учеба\Графика\graphred\graphred\bin\Debug\graphred.pdb
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.csprojResolveAssemblyReference.cache
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.Form1.resources
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.Properties.Resources.resources
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.csproj.GenerateResource.Cache
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.exe
+D:\_Учеба\Графика\graphred\graphred\obj\Debug\graphred.pdb
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\bin\Debug\graphred.exe.config
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.exe
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.pdb
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\bin\Debug\graphred.exe
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\bin\Debug\graphred.pdb
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.csprojResolveAssemblyReference.cache
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.Form1.resources
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.Properties.Resources.resources
+C:\Users\5RY\Desktop\proga\Для Манюни\graphred\graphred\obj\Debug\graphred.csproj.GenerateResource.Cache
+D:\_Учеба\Графика\почти все\graphred\graphred\bin\Debug\graphred.exe.config
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.exe
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.pdb
+D:\_Учеба\Графика\почти все\graphred\graphred\bin\Debug\graphred.exe
+D:\_Учеба\Графика\почти все\graphred\graphred\bin\Debug\graphred.pdb
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.csprojResolveAssemblyReference.cache
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.Form1.resources
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.Properties.Resources.resources
+D:\_Учеба\Графика\почти все\graphred\graphred\obj\Debug\graphred.csproj.GenerateResource.Cache
+J:\КГ\все\все\graphred\graphred\bin\Debug\graphred.exe.config
+J:\КГ\все\все\graphred\graphred\obj\Debug\graphred.exe
+J:\КГ\все\все\graphred\graphred\obj\Debug\graphred.pdb
+H:\КГ\все\все\graphred\graphred\bin\Debug\graphred.exe.config
+H:\КГ\все\все\graphred\graphred\obj\Debug\graphred.exe
+H:\КГ\все\все\graphred\graphred\obj\Debug\graphred.pdb
+D:\КГ\все\все\graphred\graphred\bin\Debug\graphred.exe.config
+D:\КГ\все\все\graphred\graphred\obj\Debug\graphred.exe
+D:\КГ\все\все\graphred\graphred\obj\Debug\graphred.pdb
+G:\КГ\все\все\graphred\graphred\bin\Debug\graphred.exe.config
+G:\КГ\все\все\graphred\graphred\obj\Debug\graphred.exe
+G:\КГ\все\все\graphred\graphred\obj\Debug\graphred.pdb
+D:\Универ\Старое\graphred\graphred\bin\Debug\graphred.exe.config
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.exe
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.pdb
+D:\Универ\Старое\graphred\graphred\bin\Debug\graphred.exe
+D:\Универ\Старое\graphred\graphred\bin\Debug\graphred.pdb
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.csprojResolveAssemblyReference.cache
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.Form1.resources
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.Properties.Resources.resources
+D:\Универ\Старое\graphred\graphred\obj\Debug\graphred.csproj.GenerateResource.Cache
